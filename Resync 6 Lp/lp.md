@@ -5,7 +5,8 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 1
+scenarioCount: 2
 scenarios:
   - Resync Test 6 Scenario
+  - Resync Test 6 Scenario 2
 title: Resync 6 Lp

@@ -7,5 +7,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Kubernetes Resync Scenario Test
+  - Resync Test 6 Scenario
 title: Resync 6 Lp
